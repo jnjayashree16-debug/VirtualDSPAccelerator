@@ -1,0 +1,13 @@
+/build/
+/cmake-build-*/
+CMakeUserPresets.json
+
+*.o
+*.a
+*.so
+*.ko
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
